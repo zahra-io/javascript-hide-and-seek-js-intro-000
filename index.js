@@ -18,3 +18,7 @@ function deepestChild() {
   }
   return node;
 };
+
+function increaseRankBy(n) {
+  
+}
